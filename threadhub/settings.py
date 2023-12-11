@@ -69,7 +69,7 @@ MIDDLEWARE = [
 # ]
 
 CORS_ALLOWED_ORIGINS = [
-    "https://47a1bab3.threadhub.pages.dev",  # URL вашого React додатку
+    "https://finally.threadhub.pages.dev",  # URL вашого React додатку
 ]
 
 ROOT_URLCONF = 'threadhub.urls'
